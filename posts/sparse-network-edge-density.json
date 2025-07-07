@@ -5,6 +5,6 @@
     "category": "Prompting Strategies",
     "excerpt": "My initial experience using Claude to create interactive HTML visualizations.",
     "content": "Full content here with HTML markup support...",
-    "demo": "/demos/constant_edge_density.html",
+    "demo": "/demos/sparse_network_constant_degree.html",
     "tags": ["prompting", "visualization", "graphs"]
   } 
