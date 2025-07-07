@@ -1,3 +1,4 @@
 [
-  "graph-visualizations.json"
+  "dense-network-edge-density.json",
+  "sparse-network-edge-density.json"
 ] 

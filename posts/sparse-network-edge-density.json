@@ -1,0 +1,10 @@
+{
+    "id": "sparse-edge-density",
+    "title": "A Second Graph Visualization",
+    "date": "2025-07-03",
+    "category": "Prompting Strategies",
+    "excerpt": "My initial experience using Claude to create interactive HTML visualizations.",
+    "content": "Full content here with HTML markup support...",
+    "demo": "/demos/constant_edge_density.html",
+    "tags": ["prompting", "visualization", "graphs"]
+  } 
